@@ -18,9 +18,9 @@ a single physical machine.
 
 In this architecture, the HMI application operates within a Windows® virtual machine managed
 by a Type-2 hypervisor such as
-[EMT](https://github.com/open-edge-platform/edge-microvisor-toolkit).
+[Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit).
 The Retrieval-Augmented Generation (RAG) pipeline and supporting AI services are deployed
-natively on a host system, which is EMT in this implementation.
+natively on a host system, which is the Edge Microvisor Toolkit in this implementation.
 [Chat Question-and-Answer Core](https://github.com/open-edge-platform/edge-ai-libraries/tree/main/sample-applications/chat-question-and-answer-core)
 provides the RAG capability.
 This separation ensures robust isolation between the HMI and AI components, enabling

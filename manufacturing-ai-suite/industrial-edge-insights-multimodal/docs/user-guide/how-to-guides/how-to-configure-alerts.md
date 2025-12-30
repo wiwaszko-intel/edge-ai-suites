@@ -54,7 +54,7 @@ docker exec -ti ia-mqtt-broker mosquitto_sub -h localhost -v -t '#' -p 1883
 docker exec -ti ia-mqtt-broker mosquitto_sub -h localhost -v -t alerts/weld_defect_detection -p 1883
 ```
 
-#### Docker - Subscribing to DLStreamer Pipeline Server Results
+#### Docker - Subscribing to DL Streamer Pipeline Server Results
 
 ```sh
 docker exec -ti ia-mqtt-broker mosquitto_sub -h localhost -v -t vision_weld_defect_classification -p 1883
