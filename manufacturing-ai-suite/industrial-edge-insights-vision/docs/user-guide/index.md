@@ -54,6 +54,7 @@ get-started.md
 ./pallet-defect-detection/index.md
 ./pcb-anomaly-detection/index.md
 ./win-vision-ai/index.md
+Release Notes <release-notes.md>
 
 :::
 hide_directive-->

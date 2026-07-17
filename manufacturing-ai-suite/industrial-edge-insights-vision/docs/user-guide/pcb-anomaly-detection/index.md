@@ -79,7 +79,6 @@ how-it-works
 how-to-guides
 api-reference
 troubleshooting
-Release Notes <release-notes>
 
 :::
 hide_directive-->
